@@ -1,2 +1,2 @@
 # BookingTest
-Booking Test 
+BookingTest
